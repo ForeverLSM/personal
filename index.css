@@ -1,0 +1,15 @@
+body{
+    background-color: #ff8519;
+    
+    display: flex;
+}
+h1{
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul li{
+    
+}
